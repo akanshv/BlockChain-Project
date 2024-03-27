@@ -1,0 +1,19 @@
+Instructions :
+1. npm init
+2. npm install --save-dev hardhat
+3. npx hardhat init
+4. npm install --save-dev "hardhat@^2.19.0" "@nomicfoundation/hardhat-toolbox@^3.0.0"
+    npm install @openzeppelin/contracts
+5. Create Contract
+6. Compile Contract
+7. npx hardhat node
+8. deploy contract
+npx hardhat --network localhost run scripts/deploy.js
+9. get address
+
+8. Create Frontend
+9. Connect in App.js
+10. copy jason file from artifacts to frontend
+10. Connect with Metamsuk
+
+11. Implement Functions in Frontend
